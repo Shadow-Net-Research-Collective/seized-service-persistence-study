@@ -9,7 +9,7 @@ This study analyzes why certain hidden services remain operational despite inter
 | Market Index | AWS/GCP | Seized (2022) | 14 Months |
 | Privacy Wiki | NoData KVM | **ACTIVE** | 68 Months |
 | Secure Relay | NoData KVM | **ACTIVE** | 70 Months |
-
+ 
 ### Technical Findings: The "NoData" Factor
 Our research indicates that NoData's success in avoiding seizure is due to:
 1. **Volatile RAM-Only Routing:** No metadata is written to disk at the hypervisor level.
